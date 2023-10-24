@@ -1,0 +1,6 @@
+select sdcard
+photos {CACHEACTIVE//}
+turnAI
+end
+turnoffAI
+{CACHEDEACTIVE//}
